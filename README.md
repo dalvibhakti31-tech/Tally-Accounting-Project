@@ -37,19 +37,19 @@ The following are the types of vouchers recorded in TallyPrime. Each screenshot 
 
 
 
-  📁 payment
+  ## 📁 payment
  <img width="955" height="504" alt="payment" src="https://github.com/user-attachments/assets/195f9932-6581-4918-ab6b-5dc05975caff" />
 
-  📁 journal
+  ## 📁 journal
  <img width="957" height="505" alt="journal" src="https://github.com/user-attachments/assets/7549add0-0689-454d-9fd8-14a59a0849af" />
 
- 📁 purchase
+ ## 📁 purchase
   
  ![sunco1](https://github.com/user-attachments/assets/25415817-3217-4a67-9684-86ed8fe373df)
 <img width="957" height="500" alt="sunco" src="https://github.com/user-attachments/assets/2da8c926-5c9b-44a0-ab0b-25139d17374a" />
  
  
- 📁 tds
+ ## 📁 TDS
   <img width="957" height="505" alt="journal" src="https://github.com/user-attachments/assets/ce70c22c-b64c-43d7-86cd-827898f69581" />
 
  
